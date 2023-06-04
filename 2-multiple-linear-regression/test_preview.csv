@@ -1,0 +1,11 @@
+make,category,year,transmission,color,fuel,engine_size,mileage,price
+BMW,Sedan,2006,automatic,red,diesel,2475,473059,1027
+Toyota,Minivan,2002,manual,red,diesel,2475,552489,2181
+Audi,Sedan,2000,automatic,green,petrol,2000,304497,29537
+Mercedes-Benz,SUV,2009,automatic,grey,petrol,2835,151032,17880
+Kia,Sedan,2002,automatic,black,diesel,1836,503412,13007
+Hyundai,Coupe,2016,manual,white,petrol,2295,70861,12519
+Toyota,SUV,2012,automatic,silver,diesel,2803,317966,20610
+Porsche,Sedan,2017,manual,grey,petrol,1721,60408,76287
+Audi,Sedan,2012,manual,silver,petrol,1983,156244,8886
+Audi,Sedan,2014,manual,blue,petrol,1983,132579,16093
